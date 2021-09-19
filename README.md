@@ -8,6 +8,7 @@ Trecho de código em python:
 Nesta disciplina irei aprender mais sobre:
 1 - Desenvolvimento mobile com Ionic
 2 - Conceitos de desenvolvimento ágil de software
+3 - Conceitos de modelagem e arquitetura de software
 
 Links úteis: 
 * [UFLA](https://www.ufla.com.br)
